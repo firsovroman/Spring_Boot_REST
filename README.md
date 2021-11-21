@@ -4,6 +4,7 @@ Spring Boot REST application. This app is used to CRUD operations.
 
 
 
+With support for the following endpoints, which can be useful for monitoring an application.
 
 
 
